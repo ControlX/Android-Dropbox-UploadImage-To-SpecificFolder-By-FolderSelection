@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DbxDemo</string>
+    <string name="APP_KEY">insert you app key here</string>
+    <string name="sign_in">Sign In</string>
+</resources>
